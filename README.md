@@ -58,7 +58,7 @@ You can play around with the raw data [here](https://app.powerbi.com/groups/me/r
 - The marketplace has proven to be the highest revenue-generating sales channel.
 
 ### Best Selling Months
-![](Profit by month.png)
+![](Profitbymonth.png)
 - Investigating further into monthly sales, it showed that in totality, June brought in the highest revenue for all 4 years(2021, 2022, 2023, and 2024). However, when investigated carefully, by comparing each month for each year, it was observed that June was not the month that brought in the highest revenue on its own, as it fluctuates year in year out.
 
 ### Highest Revenue Location
