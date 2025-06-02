@@ -16,6 +16,7 @@ Year-over-Year % Change,
 
 This data comprises 3 distinct tables such as sales, calendar, and product table. 
 
+ ![](https://github.com/lolabode/Sales-Dashboard-Analysis-of-Active-Wear/blob/main/Overview.png)
 ## Skills/ concepts demonstrated:
 The following capabilities were incorporated
 - EDA
