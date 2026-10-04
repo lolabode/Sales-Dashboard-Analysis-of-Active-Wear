@@ -10,7 +10,7 @@
 - **The online store is the fastest-growing channel**, with profit up 32.6% in 2024 while pop-ups and events fell 7%
 - **Only 22% of customers buy more than once**, so retention is the biggest untapped growth lever
 
-[**View the dashboard (PDF)**](Wears_Dashboard.pdf)
+[**View the dashboard (PDF)**](Wears%20Dashboard.pdf)
 
 ![Sales dashboard overview](Overview.png)
 
@@ -134,7 +134,7 @@ Only **22% of customers placed more than one order**. With 5,000 customers avera
 
 | File | What it is |
 |---|---|
-| [Wears_Dashboard.pdf](Wears_Dashboard.pdf) | All three dashboard pages |
+| [Wears Dashboard.pdf](Wears%20Dashboard.pdf) | All three dashboard pages |
 | [My_Active_datawear.xlsx](My_Active_datawear.xlsx) | Source data |
 | [Completed Background.pptx](Completed%20Background.pptx) | Dashboard background design |
 
